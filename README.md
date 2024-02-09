@@ -1,3 +1,14 @@
+
+To understand how this code works
+
+```
+rg HashSet
+```
+
+This PR never landed as we decided in the core team meeting that
+all history should be preserved and so this concept never happened.
+Although I would like my Reedline to work this way :)
+
 # A feature-rich line editor - powering Nushell
 
 ![GitHub](https://img.shields.io/github/license/nushell/reedline)
